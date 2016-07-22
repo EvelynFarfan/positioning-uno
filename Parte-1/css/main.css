@@ -1,0 +1,19 @@
+/* Pon tu código css aqui */
+body{
+	margin: 0;
+	padding: 0
+}
+div{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+.contenedor-1{
+	background-color: #ee3e64;
+}
+.contenedor-2{
+	background-color: #44accf;
+}
+.contenedor-3{
+	background-color: #b7d84b;
+}
